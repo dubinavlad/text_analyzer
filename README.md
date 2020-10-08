@@ -7,3 +7,4 @@ How to start the analyzer
 5.Start "main.py" and input legal text.
 
 Other information in the comments to the code
+This is a demo version
