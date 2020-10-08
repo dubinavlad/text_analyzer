@@ -1,0 +1,42 @@
+{
+  "model": {
+    "types": [],
+    "attributes": [],
+    "agentTypes": [
+      {
+        "id": 2,
+        "name": "COURT",
+        "description": "",
+        "attributes": []
+      }
+    ],
+    "agents": [
+      {
+        "id": 2,
+        "name": "court",
+        "description": "",
+        "type": "COURT"
+      }
+    ],
+    "axioms": [],
+    "goals": [],
+    "safety": [],
+    "actions": [],
+    "events": [],
+    "behavior": "",
+    "behaviors": [],
+    "behaviorsParams": [],
+    "cCode": "",
+    "macros": [],
+    "description": "",
+    "chartsSettings": [],
+    "tree": []
+  },
+  "experiments": [],
+  "currentExperiment": 0,
+  "ideState": {
+    "windows": [],
+    "vPosition": 0,
+    "hPosition": 0
+  }
+}
